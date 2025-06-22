@@ -32,4 +32,4 @@ npm install
 npm run dev
 ```
 ## 🌐 Live Demo
-🔗 [https://your-vercel-url.vercel.app/](https://pwd-gen-ecru.vercel.app)
+🔗 [Password Generator](https://pwd-gen-ecru.vercel.app)
