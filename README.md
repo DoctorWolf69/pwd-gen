@@ -30,6 +30,6 @@ git clone https://github.com/YOUR_USERNAME/pwd-gen.git
 cd pwd-gen
 npm install
 npm run dev
-
+```
 ## 🌐 Live Demo
 🔗 [https://your-vercel-url.vercel.app/](https://pwd-gen-ecru.vercel.app)
