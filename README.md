@@ -4,7 +4,7 @@ A clean, modern password generator web app built using **React + Vite**, styled 
 
 ## 🚀 Features
 
-- Set password length (4–32)
+- Set password length
 - Toggle inclusion of:
   - ✅ Alphabets (A–Z, a–z)
   - ✅ Numbers (0–9)
